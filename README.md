@@ -1,6 +1,8 @@
+Welcome, you can see some of my projects here, on my personal website 👇
+https://caue-braga-personal-website.netlify.app
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaueBraga&layout=compact&theme=radical)](https://github.com/CaueBraga/github-readme-stats)
-
 
 <div>
 <img height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
