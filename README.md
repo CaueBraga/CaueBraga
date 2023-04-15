@@ -1,5 +1,7 @@
-Welcome, you can see some of my projects here, on my personal website 👇
-https://caue-braga-personal-website.netlify.app
+<div>
+<div> Welcome, you can see some of my projects here, on my personal website 👇</div>
+<div> https://caue-braga-personal-website.netlify.app </div>
+ </div>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaueBraga&layout=compact&theme=radical)](https://github.com/CaueBraga/github-readme-stats)
