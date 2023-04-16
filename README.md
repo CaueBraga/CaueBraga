@@ -1,6 +1,6 @@
 
  Welcome, you can see some of my projects here ➡️
-<div margin="20px"> https://caue-braga-personal-website.netlify.app </div>
+ https://caue-braga-personal-website.netlify.app
  
 
 
