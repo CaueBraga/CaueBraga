@@ -1,5 +1,4 @@
-<div>Welcome, you can see some of my projects here</div>
-➡️ https://caue-braga.netlify.app
+Welcome, you can see some of my projects here ➡️ https://caue-braga.netlify.app
  
 
 
