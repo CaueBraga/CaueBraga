@@ -2,6 +2,8 @@ Welcome, you can see some of my projects here ➡️ https://caue-braga.netlify.
  
 
 
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaueBraga&layout=compact&theme=radical)](https://github.com/CaueBraga/github-readme-stats)
 
 <div>
